@@ -1,0 +1,37 @@
+.navbar-toggler{
+    background-color: #6610f2 !important;
+}
+.navbar{
+    background-color: #6610f2;
+}
+.container-1{
+    margin: 20px;
+    border-radius: 25px;
+    padding: 15px;
+}
+.btn-1{
+    background-color: #6610f2 !important;
+    color: white !important;
+}
+p{ 
+  display: inline;
+  margin: 15px; 
+}
+.container-2{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.a-1{
+  color: black;
+}
+.alert{
+  width: 50%;
+  margin: auto;
+  text-align: center !important;
+}
+.content{
+  color: #212529;
+  width: 100%;
+  /* position:fixed */
+}
+

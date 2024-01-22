@@ -1,0 +1,43 @@
+.navbar{
+    background-color: #6610f2;
+}
+.container-5{
+    width: 90vw;
+    margin: auto;
+}
+.carousel-inner{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    width: 95vw;
+}
+.container-1{
+    text-align: center !important;
+    margin-top: 15px;
+}
+.container-3{
+    text-align: left !important;
+    margin-top: 15px;
+    margin-left: 7vw;
+    font-family: Inter;
+}
+.container-4{
+  margin: auto;
+  margin-top: 15px;
+  width: 90%;
+}
+.card{
+  margin-top: 15px;
+}
+.container-10{
+    margin: auto;
+}
+.content{
+    width: 80%;
+    margin: auto;
+}
+A.a {
+    color: white !important; 
+}
+A.aa {
+    color: black !important; 
+}
